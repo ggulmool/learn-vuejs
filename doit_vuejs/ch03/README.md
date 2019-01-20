@@ -133,4 +133,4 @@ methods: {
 }
 ```
 
-[이벤트를 버스 구현하기](./8_vue_event_bus.html)
+[이벤트 버스 구현하기 에제](./8_vue_event_bus.html)
